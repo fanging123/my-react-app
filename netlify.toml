@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/test/*"
-  to = "https://inspiring-rolypoly-89d5fc.netlify.app/"
+  to = "radiant-phoenix-8d0113.netlify.app/"
   status = 200
   force = false
